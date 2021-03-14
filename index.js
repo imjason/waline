@@ -6,10 +6,12 @@ module.exports = Waline({
     '毛泽东',
     '快递',
     '空包',
-    '代发'
+    '代发',
+    '单号'
   ],
   disallowIPList: [
-    '220.173.125.83'
+    '220.173.125.83',
+    '222.83.150.92'
   ],
   secureDomains: [
     'ccknbc.now.sh',
