@@ -14,7 +14,7 @@ module.exports = Waline({
     '222.83.150.92'
   ],
   secureDomains: [
-    'ccknbc.now.sh',
+    'ccknbc.vercel.app',
     'ccknbc.netlify.app',
     'ccknbc.pages.dev',
     'ccknbc.gitlab.io',
