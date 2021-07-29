@@ -4,7 +4,7 @@
   "dependencies": {
     "@waline/vercel": "0.26.1",
     "@waline/cloudbase": "1.0.25",
-    "snyk": "1.669.0"
+    "snyk": "1.671.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
