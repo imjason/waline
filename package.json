@@ -5,10 +5,5 @@
     "@waline/vercel": "0.26.1",
     "@waline/cloudbase": "1.0.25",
     "snyk": "1.672.0"
-  },
-  "scripts": {
-    "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
-  },
-  "snyk": true
+  }
 }
