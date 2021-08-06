@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "dependencies": {
     "@waline/vercel": "0.26.2",
-    "@waline/cloudbase": "1.0.25"
+    "@waline/cloudbase": "1.0.26"
   }
 }
