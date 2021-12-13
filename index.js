@@ -15,6 +15,8 @@ module.exports = Waline({
   ],
   secureDomains: [
     'ccknbc.vercel.app',
+    'waline.ccknbc.vercel.app',
+    'waline.ccknbc.ml',
     'ccknbc.netlify.app',
     'ccknbc.bitbucket.io',
     'ccknbc.pages.dev',
