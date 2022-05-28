@@ -24,6 +24,7 @@ module.exports = Waline({
     'ccknbc.github.io',
     'ccknbc.gitee.io',
     'blog.ccknbc.cc',
+    'cc.instatus.com',
     'blog.imzjw.cn',
     'www.imzjw.cn',
     'kotodama.yunyoujun.cn',
