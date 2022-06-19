@@ -13,10 +13,10 @@ jobs:
       TZ: Asia/Shanghai
     steps:
       - uses: actions/checkout@main
-      - name: Setup Node.js 16.x
+      - name: Setup Node.js
         uses: actions/setup-node@main
         with:
-         node-version: "16.x"
+         node-version: "latest"
       - name: Run
         run: |
           git clone https://github.com/walinejs/tcb-starter.git
