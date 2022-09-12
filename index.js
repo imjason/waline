@@ -7,6 +7,7 @@ module.exports = Waline({
     '快递',
     '空包',
     '代发',
+    'v2',
     '单号'
   ],
   disallowIPList: [
@@ -16,6 +17,8 @@ module.exports = Waline({
   secureDomains: [
     'qystudio.ltd',
     'qystu.cc',
+    'www.qystudio.ltd',
+    'www.qystu.cc',
     'qystudio0.vercel.app',
     'waline.qystudio.ltd',
     'waline.qystu.cc',
