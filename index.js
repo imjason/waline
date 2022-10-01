@@ -8,7 +8,11 @@ module.exports = Waline({
     '空包',
     '代发',
     'v2',
-    '单号'
+    '单号',
+    '你妈',
+    '你筝',
+    '傻逼',
+    'maplesuagrt'
   ],
   disallowIPList: [
     '220.173.125.83',
