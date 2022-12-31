@@ -2,7 +2,7 @@
   "name": "waline",
   "version": "0.0.0",
   "dependencies": {
-    "@waline/vercel": "1.25.1",
+    "@waline/vercel": "1.25.2",
     "@snyk/protect": "latest"
   },
   "scripts": {
